@@ -1,0 +1,9 @@
+.container{
+    
+    background-color: #efefef;
+    max-width: 1400px;
+    margin: 0 auto;
+
+    width: 90%;
+    border: 2PX solid gray;
+}

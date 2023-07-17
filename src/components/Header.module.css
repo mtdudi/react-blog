@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+    border-bottom: 2px solid #8471ee;
+
+}
+
+
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20px;
+
+}
+
+.focia {
+    width: 100px;
+}
+
+
+.navItem {
+    text-decoration: none;
+    list-style: none;
+}
